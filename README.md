@@ -18,8 +18,6 @@ Instalar Vue 2:
 
 Abra o terminal ou prompt de comando e execute os seguintes comandos:
 
-npm install
-
 npm install -g vue@^2
 
 npm install -g @vue/cli
@@ -42,13 +40,9 @@ git clone https://github.com/Alexlr10/Processo-Seletivo-Hepta-front.git
 
 Acesse o diretório do projeto:
 
-bash
-
 cd processo-seletivo-front
 
 Instale as dependências do projeto:
-
-bash
 
 npm install
 
@@ -58,8 +52,6 @@ Certifique-se de que você está no diretório do projeto no terminal.
 
 Execute o seguinte comando para iniciar a aplicação:
 
-bash
-
 npm run serve
 
 Aguarde até que a aplicação seja compilada e iniciada. Você verá uma mensagem indicando o endereço local 
@@ -68,9 +60,8 @@ em que a aplicação está sendo executada.
 Agora você pode acessar a aplicação em seu navegador, utilizando o endereço local fornecido.
 
 ## Considerações Finais
-Este arquivo HOWTO.md forneceu instruções para executar a aplicação. Como mencionado anteriormente, este projeto não possui testes disponíveis.
+Este arquivo Readme.md forneceu instruções para executar a aplicação. Como mencionado anteriormente, este projeto não possui testes disponíveis.
 
-Certifique-se de consultar a documentação do projeto para obter mais detalhes sobre recursos e funcionalidades avançadas.
 
 
 
