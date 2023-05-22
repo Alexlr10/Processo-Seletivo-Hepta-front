@@ -32,22 +32,36 @@ Certifique-se de que todas as dependências estejam instaladas corretamente ante
 As etapas de configuração são as seguintes:
 
 Clone este repositório para o seu ambiente local:
+
 bash
+
 git clone https://github.com/Alexlr10/Processo-Seletivo-Hepta-front.git
+
 Acesse o diretório do projeto:
+
 bash
+
 cd processo-seletivo-front
+
 Instale as dependências do projeto:
+
 bash
+
 npm install
+
 Executando a Aplicação
+
 Certifique-se de que você está no diretório do projeto no terminal.
 
 Execute o seguinte comando para iniciar a aplicação:
 
 bash
+
 npm run serve
-Aguarde até que a aplicação seja compilada e iniciada. Você verá uma mensagem indicando o endereço local em que a aplicação está sendo executada.
+
+Aguarde até que a aplicação seja compilada e iniciada. Você verá uma mensagem indicando o endereço local 
+em que a aplicação está sendo executada.
+
 Agora você pode acessar a aplicação em seu navegador, utilizando o endereço local fornecido.
 
 ## Considerações Finais
