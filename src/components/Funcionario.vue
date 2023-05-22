@@ -75,7 +75,6 @@ export default {
         this.funcionario = { ...this.funcionarioSelecionado } || this.funcionario;
         this.data = this.formatarData(this.funcionario.dataNascimento || Date.now());
         this.lotacao = this.lotacoes.find(lotacao => lotacao.value === this.funcionario.idLotacao);
-        console.log(this.funcionario)
     },
 
     methods: {

@@ -19,8 +19,11 @@ Instalar Vue 2:
 Abra o terminal ou prompt de comando e execute os seguintes comandos:
 
 bash
+
 npm install -g vue@^2
+
 npm install -g @vue/cli
+
 npm install -g @vue/cli-service
 
 
